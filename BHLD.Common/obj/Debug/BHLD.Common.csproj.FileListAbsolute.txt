@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Project\BHLD\BHLD.Common\bin\Debug\BHLD.Common.dll
+C:\Users\admin\Desktop\Project\BHLD\BHLD.Common\bin\Debug\BHLD.Common.pdb
+C:\Users\admin\Desktop\Project\BHLD\BHLD.Common\obj\Debug\BHLD.Common.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Project\BHLD\BHLD.Common\obj\Debug\BHLD.Common.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Project\BHLD\BHLD.Common\obj\Debug\BHLD.Common.dll
+C:\Users\admin\Desktop\Project\BHLD\BHLD.Common\obj\Debug\BHLD.Common.pdb
+D:\CongViec\VMO4\BHLD.Common\bin\Debug\BHLD.Common.dll
+D:\CongViec\VMO4\BHLD.Common\bin\Debug\BHLD.Common.pdb
+D:\CongViec\VMO4\BHLD.Common\obj\Debug\BHLD.Common.csproj.CoreCompileInputs.cache
+D:\CongViec\VMO4\BHLD.Common\obj\Debug\BHLD.Common.dll
+D:\CongViec\VMO4\BHLD.Common\obj\Debug\BHLD.Common.pdb
